@@ -15,8 +15,6 @@
 </p>
 
 
-![enter image description here](https://raw.githubusercontent.com/metis/temp-media/master/dashboard.png)
-
 ## Topics
 
 1. [Introduction](#introduction)
