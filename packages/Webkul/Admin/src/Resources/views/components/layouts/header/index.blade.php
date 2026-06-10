@@ -14,14 +14,14 @@
             @else
                 <img
                     class="h-10 max-sm:hidden"
-                    src="{{ request()->cookie('dark_mode') ? vite()->asset('images/dark-logo.svg') : vite()->asset('images/logo.svg') }}"
+                    src="{{ request()->cookie('dark_mode') ? vite()->asset('images/dark-logo.png') : vite()->asset('images/logo.png') }}"
                     id="logo-image"
                     alt="{{ config('app.name') }}"
                 />
 
                 <img
                     class="h-10 sm:hidden"
-                    src="{{ request()->cookie('dark_mode') ? vite()->asset('images/mobile-dark-logo.svg') : vite()->asset('images/mobile-light-logo.svg') }}"
+                    src="{{ request()->cookie('dark_mode') ? vite()->asset('images/mobile-dark-logo.png') : vite()->asset('images/mobile-light-logo.png') }}"
                     id="logo-image"
                     alt="{{ config('app.name') }}"
                 />
@@ -88,7 +88,7 @@
                         />
                     @else
                         <img
-                            src="{{ request()->cookie('dark_mode') ? vite()->asset('images/dark-logo.svg') : vite()->asset('images/logo.svg') }}"
+                            src="{{ request()->cookie('dark_mode') ? vite()->asset('images/dark-logo.png') : vite()->asset('images/logo.png') }}"
                             id="logo-image"
                             alt="{{ config('app.name') }}"
                             width="24"
@@ -153,9 +153,9 @@
                 return {
                     isDarkMode: {{ request()->cookie('dark_mode') ?? 0 }},
 
-                    logo: "{{ vite()->asset('images/logo.svg') }}",
+                    logo: "{{ vite()->asset('images/logo.png') }}",
 
-                    dark_logo: "{{ vite()->asset('images/dark-logo.svg') }}",
+                    dark_logo: "{{ vite()->asset('images/dark-logo.png') }}",
                 };
             },
 

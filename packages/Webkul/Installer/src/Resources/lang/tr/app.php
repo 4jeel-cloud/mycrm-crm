@@ -130,7 +130,7 @@ return [
         'index' => [
             'create-administrator' => [
                 'admin' => 'Yönetici',
-                'krayin' => 'Krayin',
+                'metis' => 'Metis',
                 'confirm-password' => 'Şifreyi Onayla',
                 'email' => 'E-posta',
                 'email-address' => 'admin@ornek.com',
@@ -145,7 +145,7 @@ return [
                 'application-name' => 'Uygulama Adı',
                 'argentine-peso' => 'Arjantin Pezosu (ARS)',
                 'australian-dollar' => 'Avustralya Doları (AUD)',
-                'krayin' => 'Krayin',
+                'metis' => 'Metis',
                 'bangladeshi-taka' => 'Bangladeş Takası (BDT)',
                 'brazilian-real' => 'Brezilya Reali (BRL)',
                 'british-pound-sterling' => 'İngiliz Sterlini (GBP)',
@@ -228,24 +228,24 @@ return [
             ],
 
             'installation-processing' => [
-                'krayin' => 'Krayin Kurulumu',
-                'krayin-info' => 'Veritabanı tabloları oluşturuluyor, bu birkaç dakika sürebilir',
+                'metis' => 'Metis Kurulumu',
+                'metis-info' => 'Veritabanı tabloları oluşturuluyor, bu birkaç dakika sürebilir',
                 'title' => 'Kurulum',
             ],
 
             'installation-completed' => [
                 'admin-panel' => 'Yönetici Paneli',
-                'krayin-forums' => 'Krayin Forumu',
+                'metis-forums' => 'Metis Forumu',
                 'customer-panel' => 'Müşteri Paneli',
-                'explore-krayin-extensions' => 'Krayin Uzantılarını Keşfedin',
+                'explore-metis-extensions' => 'Metis Uzantılarını Keşfedin',
                 'title' => 'Kurulum Tamamlandı',
-                'title-info' => 'Krayin sisteminize başarıyla kuruldu.',
+                'title-info' => 'Metis sisteminize başarıyla kuruldu.',
             ],
 
             'ready-for-installation' => [
                 'create-databsae-table' => 'Veritabanı tablosu oluştur',
                 'install' => 'Yükleme',
-                'install-info' => 'Kurulum için Krayin',
+                'install-info' => 'Kurulum için Metis',
                 'install-info-button' => 'Aşağıdaki düğmeye tıklayın',
                 'populate-database-table' => 'Veritabanı tablolarını doldur',
                 'start-installation' => 'Kurulumu Başlat',
@@ -256,8 +256,8 @@ return [
                 'locale' => 'Yerel',
                 'main' => 'Başlangıç',
                 'select-locale' => 'Yerel Seçin',
-                'title' => 'Krayin kurulumunuz',
-                'welcome-title' => 'Krayin\'ya hoş geldiniz',
+                'title' => 'Metis kurulumunuz',
+                'welcome-title' => 'Metis\'ya hoş geldiniz',
             ],
 
             'server-requirements' => [
@@ -284,15 +284,15 @@ return [
             ],
 
             'back' => 'Geri',
-            'krayin' => 'Krayin',
-            'krayin-info' => 'Webkul tarafından geliştirilen bir Topluluk Projesi',
-            'krayin-logo' => 'Krayin Logosu',
+            'metis' => 'Metis',
+            'metis-info' => 'Webkul tarafından geliştirilen bir Topluluk Projesi',
+            'metis-logo' => 'Metis Logosu',
             'continue' => 'Devam Et',
-            'installation-description' => 'Krayin kurulumu genellikle birkaç adım içerir. İşte Krayin\'nun kurulum sürecine genel bir bakış',
+            'installation-description' => 'Metis kurulumu genellikle birkaç adım içerir. İşte Metis\'nun kurulum sürecine genel bir bakış',
             'installation-info' => 'Sizi burada görmekten mutluluk duyuyoruz!',
             'installation-title' => 'Kurulum\'a Hoş Geldiniz',
             'installation-wizard' => 'Kurulum Sihirbazı dili',
-            'title' => 'Krayin Kurulum Sihirbazı',
+            'title' => 'Metis Kurulum Sihirbazı',
             'webkul' => 'Webkul',
         ],
     ],

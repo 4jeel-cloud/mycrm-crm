@@ -42,7 +42,7 @@ class CanInstall
         if (app(DatabaseManager::class)->isInstalled()) {
             touch(storage_path('installed'));
 
-            Event::dispatch('krayin.installed');
+            Event::dispatch('metis.installed');
 
             return true;
         }

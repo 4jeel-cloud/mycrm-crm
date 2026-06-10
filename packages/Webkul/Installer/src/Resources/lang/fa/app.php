@@ -130,7 +130,7 @@ return [
         'index' => [
             'create-administrator' => [
                 'admin' => 'مدیر',
-                'krayin' => 'کرایین',
+                'metis' => 'متیس',
                 'confirm-password' => 'تایید رمز عبور',
                 'email' => 'ایمیل',
                 'email-address' => 'admin@example.com',
@@ -145,7 +145,7 @@ return [
                 'application-name' => 'نام برنامه',
                 'argentine-peso' => 'پزو آرژانتین (ARS)',
                 'australian-dollar' => 'دلار استرالیا (AUD)',
-                'krayin' => 'کرایین',
+                'metis' => 'متیس',
                 'bangladeshi-taka' => 'تاکا بنگلادش (BDT)',
                 'brazilian-real' => 'رئال برزیل (BRL)',
                 'british-pound-sterling' => 'پوند استرلینگ بریتانیا (GBP)',
@@ -228,24 +228,24 @@ return [
             ],
 
             'installation-processing' => [
-                'krayin' => 'نصب کرایین',
-                'krayin-info' => 'در حال ایجاد جداول پایگاه داده، این ممکن است چند لحظه طول بکشد',
+                'metis' => 'نصب متیس',
+                'metis-info' => 'در حال ایجاد جداول پایگاه داده، این ممکن است چند لحظه طول بکشد',
                 'title' => 'نصب',
             ],
 
             'installation-completed' => [
                 'admin-panel' => 'پنل مدیریت',
-                'krayin-forums' => 'انجمن کرایین',
+                'metis-forums' => 'انجمن متیس',
                 'customer-panel' => 'پنل مشتری',
-                'explore-krayin-extensions' => 'کاوش افزونه‌های کرایین',
+                'explore-metis-extensions' => 'کاوش افزونه‌های متیس',
                 'title' => 'نصب کامل شد',
-                'title-info' => 'کرایین با موفقیت بر روی سیستم شما نصب شد.',
+                'title-info' => 'متیس با موفقیت بر روی سیستم شما نصب شد.',
             ],
 
             'ready-for-installation' => [
                 'create-databsae-table' => 'ایجاد جدول پایگاه داده',
                 'install' => 'نصب',
-                'install-info' => 'کرایین برای نصب',
+                'install-info' => 'متیس برای نصب',
                 'install-info-button' => 'برای شروع، دکمه زیر را کلیک کنید',
                 'populate-database-table' => 'پر کردن جداول پایگاه داده',
                 'start-installation' => 'شروع نصب',
@@ -256,8 +256,8 @@ return [
                 'locale' => 'زبان',
                 'main' => 'شروع',
                 'select-locale' => 'انتخاب زبان',
-                'title' => 'نصب کرایین شما',
-                'welcome-title' => 'به کرایین خوش آمدید',
+                'title' => 'نصب متیس شما',
+                'welcome-title' => 'به متیس خوش آمدید',
             ],
 
             'server-requirements' => [
@@ -284,15 +284,15 @@ return [
             ],
 
             'back' => 'بازگشت',
-            'krayin' => 'کرایین',
-            'krayin-info' => 'یک پروژه اجتماعی توسط',
-            'krayin-logo' => 'لوگوی کرایین',
+            'metis' => 'متیس',
+            'metis-info' => 'یک پروژه اجتماعی توسط',
+            'metis-logo' => 'لوگوی متیس',
             'continue' => 'ادامه',
-            'installation-description' => 'نصب کرایین معمولاً شامل چندین مرحله است. در اینجا یک طرح کلی از فرآیند نصب کرایین آمده است',
+            'installation-description' => 'نصب متیس معمولاً شامل چندین مرحله است. در اینجا یک طرح کلی از فرآیند نصب متیس آمده است',
             'installation-info' => 'خوشحالیم که شما را اینجا می‌بینیم!',
             'installation-title' => 'به نصب خوش آمدید',
             'installation-wizard' => 'زبان جادوگر نصب',
-            'title' => 'نصب‌کننده کرایین',
+            'title' => 'نصب‌کننده متیس',
             'webkul' => 'وبکول',
         ],
     ],

@@ -11,11 +11,11 @@ use Webkul\Core\Repositories\CountryStateRepository;
 class Core
 {
     /**
-     * The Krayin version.
+     * The Metis version.
      *
      * @var string
      */
-    const KRAYIN_VERSION = '2.2.3';
+    const METIS_VERSION = '2.2.3';
 
     /**
      * Create a new instance.
@@ -29,13 +29,13 @@ class Core
     ) {}
 
     /**
-     * Get the version number of the Krayin.
+     * Get the version number of the Metis.
      *
      * @return string
      */
     public function version()
     {
-        return static::KRAYIN_VERSION;
+        return static::METIS_VERSION;
     }
 
     /**

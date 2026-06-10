@@ -333,7 +333,7 @@ return [
         ],
         'layouts' => [
             'powered-by' => [
-                'description' => 'Desarrollado por :krayin, un proyecto de código abierto de :webkul.',
+                'description' => 'Desarrollado por :metis, un proyecto de código abierto de :webkul.',
             ],
             'header' => [
                 'mega-search' => [

@@ -20,7 +20,7 @@ class ImageCacheController
      *
      * @var string
      */
-    const KRAYIN_LOGO = 'https://updates.krayincrm.com/krayin.png';
+    const METIS_LOGO = 'https://updates.metiscrm.com/metis.png';
 
     /**
      * Get HTTP response of template applied image file
@@ -31,8 +31,8 @@ class ImageCacheController
     public function getImage($filename)
     {
         try {
-            $content = Cache::remember('krayin-logo', 10080, function () {
-                return $this->getImageFromUrl(self::KRAYIN_LOGO);
+            $content = Cache::remember('metis-logo', 10080, function () {
+                return $this->getImageFromUrl(self::METIS_LOGO);
             });
         } catch (\Exception $e) {
             $content = '';

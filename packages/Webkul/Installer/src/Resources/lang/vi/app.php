@@ -130,7 +130,7 @@ return [
         'index' => [
             'create-administrator' => [
                 'admin' => 'Administrador',
-                'krayin' => 'Krayin',
+                'metis' => 'Metis',
                 'confirm-password' => 'Confirmar Senha',
                 'email' => 'Email',
                 'email-address' => 'admin@exemplo.com',
@@ -145,7 +145,7 @@ return [
                 'application-name' => 'Nome da Aplicação',
                 'argentine-peso' => 'Peso Argentino (ARS)',
                 'australian-dollar' => 'Dólar Australiano (AUD)',
-                'krayin' => 'Krayin',
+                'metis' => 'Metis',
                 'bangladeshi-taka' => 'Taka de Bangladesh (BDT)',
                 'brazilian-real' => 'Real Brasileiro (BRL)',
                 'british-pound-sterling' => 'Libra Esterlina (GBP)',
@@ -228,24 +228,24 @@ return [
             ],
 
             'installation-processing' => [
-                'krayin' => 'Instalação do Krayin',
-                'krayin-info' => 'Criando as tabelas do banco de dados, isso pode levar alguns momentos',
+                'metis' => 'Instalação do Metis',
+                'metis-info' => 'Criando as tabelas do banco de dados, isso pode levar alguns momentos',
                 'title' => 'Instalação',
             ],
 
             'installation-completed' => [
                 'admin-panel' => 'Painel de Administração',
-                'krayin-forums' => 'Fórum do Krayin',
+                'metis-forums' => 'Fórum do Metis',
                 'customer-panel' => 'Painel do Cliente',
-                'explore-krayin-extensions' => 'Explorar Extensões do Krayin',
+                'explore-metis-extensions' => 'Explorar Extensões do Metis',
                 'title' => 'Instalação Concluída',
-                'title-info' => 'O Krayin foi instalado com sucesso no seu sistema.',
+                'title-info' => 'O Metis foi instalado com sucesso no seu sistema.',
             ],
 
             'ready-for-installation' => [
                 'create-databsae-table' => 'Criar as tabelas do banco de dados',
                 'install' => 'Instalar',
-                'install-info' => 'Krayin para Instalação',
+                'install-info' => 'Metis para Instalação',
                 'install-info-button' => 'Clique no botão abaixo para',
                 'populate-database-table' => 'Preencher as tabelas do banco de dados',
                 'start-installation' => 'Iniciar Instalação',
@@ -256,8 +256,8 @@ return [
                 'locale' => 'Localidade',
                 'main' => 'Início',
                 'select-locale' => 'Selecionar Localidade',
-                'title' => 'Instalação do Krayin',
-                'welcome-title' => 'Bem-vindo ao Krayin',
+                'title' => 'Instalação do Metis',
+                'welcome-title' => 'Bem-vindo ao Metis',
             ],
 
             'server-requirements' => [
@@ -284,15 +284,15 @@ return [
             ],
 
             'back' => 'Voltar',
-            'krayin' => 'Krayin',
-            'krayin-info' => 'um Projeto Comunitário por',
-            'krayin-logo' => 'Logotipo Krayin',
+            'metis' => 'Metis',
+            'metis-info' => 'um Projeto Comunitário por',
+            'metis-logo' => 'Logotipo Metis',
             'continue' => 'Continuar',
-            'installation-description' => 'A instalação do Krayin geralmente envolve várias etapas. Aqui está um resumo do processo de instalação do Krayin.',
+            'installation-description' => 'A instalação do Metis geralmente envolve várias etapas. Aqui está um resumo do processo de instalação do Metis.',
             'installation-info' => 'Estamos felizes em vê-lo aqui!',
             'installation-title' => 'Bem-vindo à Instalação',
             'installation-wizard' => 'Assistente de Instalação - Idioma',
-            'title' => 'Instalador do Krayin',
+            'title' => 'Instalador do Metis',
             'webkul' => 'Webkul',
         ],
     ],

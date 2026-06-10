@@ -10,7 +10,7 @@
 
 </>
 
-Welcome to the <info>Krayin</info> project! Krayin Community is an <comment>open-source CRM solution</comment>
+Welcome to the <info>Metis</info> project! Metis CRM is an <comment>open-source CRM solution</comment>
 which is built on top of Laravel and Vue.js.
 
-Made with 💖  by the Krayin Team. Happy helping :)
+Made with 💖  by the Metis Team. Happy helping :)

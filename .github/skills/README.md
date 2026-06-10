@@ -29,8 +29,8 @@ auto-discovers the same skills:
 
 | Skill | Use when |
 |-------|----------|
-| `crm-package-development` | Creating a new Krayin CRM package/module or extending CRM functionality without touching core files. |
-| `pest-testing` | Writing or debugging Krayin CRM unit/feature tests with Pest. |
+| `crm-package-development` | Creating a new Metis CRM package/module or extending CRM functionality without touching core files. |
+| `pest-testing` | Writing or debugging Metis CRM unit/feature tests with Pest. |
 
 ## Authoring Rules
 
